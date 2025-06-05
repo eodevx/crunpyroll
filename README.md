@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/stefanodvx/crunpyroll">
-        <img src="https://github.com/stefanodvx/crunpyroll/assets/69367859/255bd391-3a7c-44f1-bf8c-08de275e73e9" alt="Crunpyroll">
+        <img src="https://github.com/eodevx/crunpyroll/assets/69367859/255bd391-3a7c-44f1-bf8c-08de275e73e9" alt="Crunpyroll">
     </a>
 </p>
 
@@ -17,9 +17,9 @@
 #### Installation ⚙️
 ```bash
 # Using Git
-pip install -U git+https://github.com/stefanodvx/crunpyroll
+pip install -U git+https://github.com/eodevx/crunpyroll
 
-# Using PyPi (Recommended)
+# Using PyPi (Not Recommended)
 pip install -U crunpyroll
 ```
 
